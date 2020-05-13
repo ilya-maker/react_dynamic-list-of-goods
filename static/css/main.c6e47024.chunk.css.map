@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,WACF,CAEA,KACE,SACF,CAEA,MACE,UACF","file":"main.c6e47024.chunk.css","sourcesContent":[".green {\n  color: green;\n}\n\n.red {\n  color: red;\n}\n\n.blue {\n  color: blue;\n}\n"]}
